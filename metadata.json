@@ -1,0 +1,8 @@
+{
+  "id": "carbonfootprinttracker",
+  "name": "Carbon Footprint Tracker",
+  "version": "0.00",
+  "description": "Track the amount of carbon dioxide emitted per gallon of motor gasoline burned using the same waypoint interface as GPS Navigation",
+  "supports": ["BANGLEJS", "BANGLEJS2"],
+  ]
+}
